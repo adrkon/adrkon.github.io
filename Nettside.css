@@ -1,0 +1,24 @@
+h1{
+	background-color: black;
+	color: red;
+}
+#innledning{
+	background-color: blue;
+	color: white;
+}
+#hoveddel{
+	background-color: red;
+	color: white;
+}
+#avslutning{
+	background-color: black;
+	color: white;
+}
+body{
+	background-color: grey;
+}
+p{
+	border-width: 5px;
+	border-style: solid;
+	border-color: lightblue;
+}
